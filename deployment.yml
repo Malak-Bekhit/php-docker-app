@@ -16,4 +16,5 @@ spec:
        - name:  php-container
          image: mvlvk77/php-app:latest
          ports:
-            - containerPort: 80      
+            - containerPort: 80    
+
